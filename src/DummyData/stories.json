@@ -1,0 +1,52 @@
+[
+    {
+        "_id": 0,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Rajdeep"
+    },
+    {
+        "_id": 1,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Rashmi"
+    },
+    {
+        "_id": 2,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Arun"
+    },
+    {
+        "_id": 3,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Shristhi"
+    },
+    {
+        "_id": 4,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Sandeep"
+    },
+    {
+        "_id": 5,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Arpit"
+    },
+    {
+        "_id": 6,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Rajdeep"
+    },
+    {
+        "_id": 7,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Rakesh"
+    },
+    {
+        "_id": 8,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Roshni"
+    },
+    {
+        "_id": 9,
+        "display_pic": "/my-img.jpg",
+        "display_name": "Manpreet"
+    }
+]

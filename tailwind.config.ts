@@ -8,13 +8,48 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        primary: {
+          light: "#0271da", // light mode primary color
+          dark: "#0271da", // dark mode primary color
+        },
+        background: {
+          light: "#EEF7FF", // light mode background color
+          dark: "#060e11", // dark mode background color
+        },
+        foreground: {
+          light: "#FFFFFF", // light mode foreground color
+          dark: "#000000", // dark mode foreground color
+        },
+        foregroundSecondary: {
+          light: "#FFFFFF", // light mode foreground color
+          dark: "#202d35", // dark mode foreground color
+        },
+        textPrimary: {
+          light: "#000000", // light mode text color
+          dark: "#ffffff", // dark mode text color
+        },
+        textSecondary: {
+          light: "grey", // light mode text color
+          dark: "lightgrey", // dark mode text color
+        },
+        border: {
+          light: "lightgrey", // light mode border color
+          dark: "grey", // dark mode border color
+        },
+        // Add more custom colors if needed
       },
     },
   },
+  variants: {
+    extend: {
+      backgroundColor: ["dark"],
+      textColor: ["dark"],
+      borderColor: ["dark"],
+      // Add more variants if needed
+    },
+  },
+  darkMode: "selector",
   plugins: [],
 };
 export default config;

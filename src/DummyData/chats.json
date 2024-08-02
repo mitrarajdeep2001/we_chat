@@ -1,0 +1,128 @@
+[
+  {
+    "_id": 0,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721155600771
+  },
+  {
+    "_id": 1,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1708109147000
+  },
+  {
+    "_id": 2,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1686422747000
+  },
+  {
+    "_id": 3,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": true,
+    "created_at": 1721155600771
+  },
+  {
+    "_id": 4,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1602355547000
+  },
+  {
+    "_id": 5,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": true,
+    "created_at": 1721155600771
+  },
+  {
+    "_id": 6,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721155600771
+  },
+  {
+    "_id": 7,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": true,
+    "created_at": 1721155600771
+  },
+  {
+    "_id": 8,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721155600771
+  },
+  {
+    "_id": 9,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721155600771
+  },
+  {
+    "_id": 9,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721069147000
+  },
+  {
+    "_id": 10,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721069147000
+  },
+  {
+    "_id": 11,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721069147000
+  },
+  {
+    "_id": 12,
+    "display_pic": "/my-img.jpg",
+    "display_name": "Rajdeep",
+    "last_msg": "last message to be show here",
+    "unseen_msg_count": 2,
+    "is_typing": false,
+    "created_at": 1721069147000
+  }
+]

@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Poppins } from "next/font/google";
 import "./globals.css";
+import BottomNavbar from "@/components/BottomNavbar";
 
-const inter = Inter({ subsets: ["latin"] });
+const poppins = Poppins({weight: ["400", "500", "600", "700", "800", "900"], subsets: ["latin"]});
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -15,8 +16,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en" className="light hide-scrollbar">
+      <body className={poppins.className+ " bg-background-light dark:bg-background-dark"}>
+        {children}
+        <BottomNavbar/>
+      </body>
     </html>
   );
 }
